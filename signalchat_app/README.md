@@ -1,6 +1,6 @@
-# signalchat_app
+# Signal Chat App
 
-A new Flutter project.
+A new Flutter Signal Chat App project.
 
 ## Getting Started
 
